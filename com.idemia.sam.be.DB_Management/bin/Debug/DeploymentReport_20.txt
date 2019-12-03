@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [Transactions].[Customer].[Code_Unique] (Index)
+     Create
+       [Transactions].[RequestDetail] (Table)
+       [Transactions].[FK_CardTypeID_RequestDetail] (Foreign Key)
+       [Transactions].[FK_RequestID_RequestDetail] (Foreign Key)
+
+** Supporting actions

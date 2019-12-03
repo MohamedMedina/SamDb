@@ -1,0 +1,367 @@
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationInsights.config
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.exe
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.exe.config
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.rsp
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csi.exe
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csi.rsp
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.AppContext.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Collections.Immutable.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.IO.FileSystem.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Reflection.Metadata.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.exe
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.exe.config
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.rsp
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\VBCSCompiler.exe
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\VBCSCompiler.exe.config
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.dll.config
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Antlr3.Runtime.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.DependencyCollector.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Web.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.WindowsServer.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.ApplicationInsights.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.Web.Infrastructure.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Newtonsoft.Json.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Net.Http.Formatting.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Helpers.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.WebHost.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Mvc.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Optimization.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Razor.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Deployment.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Razor.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\WebGrease.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Newtonsoft.Json.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Net.Http.Formatting.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Helpers.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.WebHost.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Mvc.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Optimization.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Razor.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Deployment.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Razor.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Antlr3.Runtime.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.ApplicationInsights.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.DependencyCollector.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.WindowsServer.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Web.xml
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Contracts.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Contracts.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.csprojResolveAssemblyReference.cache
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.BLL.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Business.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Model.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Helpers.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.Layers.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Data_Access.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.DatabaseServices.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.Utilities.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.ExceptionManagement.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.BLL.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Business.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Model.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Helpers.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Data_Access.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.dll.config
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationInsights.config
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.exe
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.exe.config
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.rsp
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csi.exe
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csi.rsp
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.AppContext.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Collections.Immutable.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.IO.FileSystem.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Reflection.Metadata.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.exe
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.exe.config
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.rsp
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\VBCSCompiler.exe
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\VBCSCompiler.exe.config
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.dll.config
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Antlr3.Runtime.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.Layers.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.BLL.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Contracts.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.DependencyCollector.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Web.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.WindowsServer.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.ApplicationInsights.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.Web.Infrastructure.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Newtonsoft.Json.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Net.Http.Formatting.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Helpers.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.WebHost.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Mvc.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Optimization.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Razor.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Deployment.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Razor.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\WebGrease.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.Utilities.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Business.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Model.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Helpers.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.ExceptionManagement.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Data_Access.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.BLL.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Contracts.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Newtonsoft.Json.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Net.Http.Formatting.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Helpers.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.WebHost.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Mvc.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Optimization.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Razor.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Deployment.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Razor.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Antlr3.Runtime.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.ApplicationInsights.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.DependencyCollector.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.WindowsServer.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Web.xml
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.dll.config
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Business.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Model.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Helpers.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Data_Access.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.csprojResolveAssemblyReference.cache
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationInsights.config
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.exe
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.exe.config
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.rsp
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csi.exe
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csi.rsp
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.AppContext.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.exe
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.exe.config
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.rsp
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\VBCSCompiler.exe
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.dll.config
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Antlr3.Runtime.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.Layers.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.BLL.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Contracts.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Web.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Newtonsoft.Json.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Net.Http.Formatting.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Helpers.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.WebHost.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Mvc.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Optimization.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Razor.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\WebGrease.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.Utilities.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Business.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Model.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Helpers.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.ExceptionManagement.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Data_Access.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.BLL.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Contracts.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Newtonsoft.Json.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Net.Http.Formatting.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Helpers.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.WebHost.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Mvc.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Optimization.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Razor.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Antlr3.Runtime.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Web.xml
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.dll.config
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Business.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Model.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Helpers.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Data_Access.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.csprojAssemblyReference.cache
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.csproj.CopyComplete
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationInsights.config
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.exe
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.exe.config
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csc.rsp
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csi.exe
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\csi.rsp
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.AppContext.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.exe
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.exe.config
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\vbc.rsp
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\VBCSCompiler.exe
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.dll.config
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.User_Management.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Antlr3.Runtime.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.Layers.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.BLL.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Contracts.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Web.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Newtonsoft.Json.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Net.Http.Formatting.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Helpers.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.WebHost.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Mvc.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Optimization.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Razor.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Razor.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\WebGrease.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.Utilities.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Business.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Model.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Helpers.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\ApplicationBlocks.ExceptionManagement.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Data_Access.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.BLL.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Contracts.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Newtonsoft.Json.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Net.Http.Formatting.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Helpers.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Http.WebHost.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Mvc.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Optimization.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.Razor.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\System.Web.WebPages.Razor.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Antlr3.Runtime.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\Microsoft.AI.Web.xml
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.DLL.dll.config
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Business.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Model.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.Helpers.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\bin\com.idemia.sam.be.ORM.Data_Access.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.csprojAssemblyReference.cache
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.csproj.CopyComplete
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.User_Management\obj\Debug\com.idemia.sam.be.User_Management.pdb

@@ -1,0 +1,19 @@
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\bin\Debug\com.idemia.sam.be.Contracts.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\bin\Debug\com.idemia.sam.be.Contracts.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.csprojResolveAssemblyReference.cache
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\bin\Debug\com.idemia.sam.be.Contracts.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\bin\Debug\com.idemia.sam.be.Contracts.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\bin\Debug\com.idemia.sam.be.Contracts.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\bin\Debug\com.idemia.sam.be.Contracts.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.csprojAssemblyReference.cache
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.Contracts\bin\Debug\com.idemia.sam.be.Contracts.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.Contracts\bin\Debug\com.idemia.sam.be.Contracts.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.Contracts\obj\Debug\com.idemia.sam.be.Contracts.csprojAssemblyReference.cache

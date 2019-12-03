@@ -1,0 +1,60 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [Transactions].[Customer].[Code_Unique] (Index)
+     Create
+       [Lookups].[DeleteCardType] (Procedure)
+       [Lookups].[DeleteCardValidity] (Procedure)
+       [Lookups].[DeleteRejectReason] (Procedure)
+       [Lookups].[DeleteRequestClass] (Procedure)
+       [Lookups].[DeleteRequestPriority] (Procedure)
+       [Lookups].[DeleteRequestStatus] (Procedure)
+       [Lookups].[DeleteRequestType] (Procedure)
+       [Lookups].[DeleteWorkField] (Procedure)
+       [Lookups].[InsertCardType] (Procedure)
+       [Lookups].[InsertCardValidity] (Procedure)
+       [Lookups].[InsertRejectReason] (Procedure)
+       [Lookups].[InsertRequestClass] (Procedure)
+       [Lookups].[InsertRequestPriority] (Procedure)
+       [Lookups].[InsertRequestStatus] (Procedure)
+       [Lookups].[InsertRequestType] (Procedure)
+       [Lookups].[InsertWorkField] (Procedure)
+       [Lookups].[SelectCardType] (Procedure)
+       [Lookups].[SelectCardValidity] (Procedure)
+       [Lookups].[SelectRejectReason] (Procedure)
+       [Lookups].[SelectRequestClass] (Procedure)
+       [Lookups].[SelectRequestPriority] (Procedure)
+       [Lookups].[SelectRequestStatus] (Procedure)
+       [Lookups].[SelectRequestType] (Procedure)
+       [Lookups].[SelectWorkField] (Procedure)
+       [Lookups].[UpdateCardType] (Procedure)
+       [Lookups].[UpdateCardValidity] (Procedure)
+       [Lookups].[UpdateRejectReason] (Procedure)
+       [Lookups].[UpdateRequestClass] (Procedure)
+       [Lookups].[UpdateRequestPriority] (Procedure)
+       [Lookups].[UpdateRequestStatus] (Procedure)
+       [Lookups].[UpdateRequestType] (Procedure)
+       [Lookups].[UpdateWorkField] (Procedure)
+       [Transactions].[DeleteCustomer] (Procedure)
+       [Transactions].[DeleteRequest] (Procedure)
+       [Transactions].[DeleteRequestDetail] (Procedure)
+       [Transactions].[InsertCustomer] (Procedure)
+       [Transactions].[InsertRequest] (Procedure)
+       [Transactions].[InsertRequestDetail] (Procedure)
+       [Transactions].[SelectCustomer] (Procedure)
+       [Transactions].[SelectRequest] (Procedure)
+       [Transactions].[SelectRequestDetail] (Procedure)
+       [Transactions].[UpdateCustomer] (Procedure)
+       [Transactions].[UpdateRequest] (Procedure)
+       [Transactions].[UpdateRequestDetail] (Procedure)
+
+** Supporting actions

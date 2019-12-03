@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1662C3D9-322F-4BDA-B24D-F6C7B9377D21}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>com.idemia.sam.be.DLL</RootNamespace>
+    <AssemblyName>com.idemia.sam.be.DLL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ApplicationBlocks.DatabaseServices">
+      <HintPath>..\ThirdParty\ApplicationBlocks.DatabaseServices.dll</HintPath>
+    </Reference>
+    <Reference Include="ApplicationBlocks.ExceptionManagement">
+      <HintPath>..\ThirdParty\ApplicationBlocks.ExceptionManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="ApplicationBlocks.Layers">
+      <HintPath>..\ThirdParty\ApplicationBlocks.Layers.dll</HintPath>
+    </Reference>
+    <Reference Include="ApplicationBlocks.Utilities">
+      <HintPath>..\ThirdParty\ApplicationBlocks.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomerDAL.cs" />
+    <Compile Include="GroupDAL.cs" />
+    <Compile Include="ICustomerDAL.cs" />
+    <Compile Include="IGroupDAL.cs" />
+    <Compile Include="IRejectReasonDAL.cs" />
+    <Compile Include="IRequestDAL.cs" />
+    <Compile Include="IUserDAL.cs" />
+    <Compile Include="IWorkFieldDAL.cs" />
+    <Compile Include="RejectReasonDAL.cs" />
+    <Compile Include="RequestDAL.cs" />
+    <Compile Include="UserDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorkFieldDAL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\com.idemia.sam.be.Contracts\com.idemia.sam.be.Contracts.csproj">
+      <Project>{836955a4-ddba-4f6e-a2c2-daa34072c21d}</Project>
+      <Name>com.idemia.sam.be.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\com.idemia.sam.be.Helpers\com.idemia.sam.be.Helpers.csproj">
+      <Project>{3b819e82-d027-4e7a-8f50-7e29ee9deb42}</Project>
+      <Name>com.idemia.sam.be.Helpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\com.idemia.sam.be.ORM.Business\com.idemia.sam.be.ORM.Business.csproj">
+      <Project>{b6b6fb9b-b281-4803-aa39-53405bf5ac5e}</Project>
+      <Name>com.idemia.sam.be.ORM.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\com.idemia.sam.be.ORM.Data_Access\com.idemia.sam.be.ORM.Data_Access.csproj">
+      <Project>{61baf6bf-8fcc-49f6-9122-d448d5764e5a}</Project>
+      <Name>com.idemia.sam.be.ORM.Data_Access</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\com.idemia.sam.be.ORM.Model\com.idemia.sam.be.ORM.Model.csproj">
+      <Project>{2c3bb207-4537-4b40-b0e1-85ffae1e30c2}</Project>
+      <Name>com.idemia.sam.be.ORM.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

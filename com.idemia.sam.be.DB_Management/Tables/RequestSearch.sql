@@ -1,0 +1,27 @@
+﻿CREATE TABLE [Transactions].[RequestSearch]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [requestNumber] NVARCHAR(10) NOT NULL, 
+	[totalQuantity] INT NULL,
+    [PDDFrom] DATETIME NULL, 
+	[PDDTo] DATETIME NULL, 
+    [customerID] INT NULL, 
+    [creationDateFrom] DATETIME NULL, 
+	[creationDateTo] DATETIME NULL, 
+    [creationUserID] INT NULL, 
+    [approvalDateFrom] DATETIME NULL, 
+    [approvalDateTo] DATETIME NULL, 
+    [approvalUserID] INT NULL,  
+	[receiveDateFrom] DATETIME NULL, 
+	[receiveDateTo] DATETIME NULL,
+	[receiveUserID] INT NULL,
+	[rejectionDateFrom] DATETIME NULL, 
+	[rejectionDateTo] DATETIME NULL, 
+    [rejectionUserID] INT NULL, 
+	[rejectionReasonID] INT NULL, 
+	[requestTypeID] INT NULL, 
+    [requestStatusID] INT NULL, 
+	[requestCalssID] INT NULL, 
+    [requestPriorityID] INT NULL,
+	[cardTypeID] INT NULL
+)

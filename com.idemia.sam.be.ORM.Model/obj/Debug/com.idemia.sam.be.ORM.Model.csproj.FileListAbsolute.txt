@@ -1,0 +1,37 @@
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\com.idemia.sam.be.ORM.Model.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\com.idemia.sam.be.ORM.Model.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.DatabaseServices.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.ExceptionManagement.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.Layers.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.Utilities.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.csprojResolveAssemblyReference.cache
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\com.idemia.sam.be.ORM.Model.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\com.idemia.sam.be.ORM.Model.pdb
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.DatabaseServices.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.ExceptionManagement.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.Layers.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.Utilities.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.dll
+E:\SAM\Clone\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\com.idemia.sam.be.ORM.Model.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\com.idemia.sam.be.ORM.Model.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.DatabaseServices.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.ExceptionManagement.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.Layers.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.Utilities.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.csproj.CopyComplete
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.dll
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.pdb
+C:\Users\GT910564\Documents\Git\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.csprojAssemblyReference.cache
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\com.idemia.sam.be.ORM.Model.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\com.idemia.sam.be.ORM.Model.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.DatabaseServices.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.ExceptionManagement.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.Layers.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\bin\Debug\ApplicationBlocks.Utilities.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.csproj.CopyComplete
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.dll
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.pdb
+C:\Users\GT910564\Downloads\SAM trial\SAM_Project\com.idemia.sam.be.ORM.Model\obj\Debug\com.idemia.sam.be.ORM.Model.csprojAssemblyReference.cache

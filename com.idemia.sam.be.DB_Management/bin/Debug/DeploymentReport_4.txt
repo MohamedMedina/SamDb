@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Transactions] (Schema)
+       [Lookups].[CardType] (Table)
+       [Lookups].[CardValidity] (Table)
+       [Lookups].[RejectReason] (Table)
+       [Lookups].[RequestClass] (Table)
+       [Lookups].[RequestPriority] (Table)
+       [Lookups].[RequestStatus] (Table)
+       [Lookups].[RequestType] (Table)
+
+** Supporting actions

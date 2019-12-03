@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C3BB207-4537-4B40-B0E1-85FFAE1E30C2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>com.idemia.sam.be.ORM.Model</RootNamespace>
+    <AssemblyName>com.idemia.sam.be.ORM.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ApplicationBlocks.DatabaseServices">
+      <HintPath>..\ThirdParty\ApplicationBlocks.DatabaseServices.dll</HintPath>
+    </Reference>
+    <Reference Include="ApplicationBlocks.ExceptionManagement">
+      <HintPath>..\ThirdParty\ApplicationBlocks.ExceptionManagement.dll</HintPath>
+    </Reference>
+    <Reference Include="ApplicationBlocks.Layers">
+      <HintPath>..\ThirdParty\ApplicationBlocks.Layers.dll</HintPath>
+    </Reference>
+    <Reference Include="ApplicationBlocks.Utilities">
+      <HintPath>..\ThirdParty\ApplicationBlocks.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CardType.Common.cs" />
+    <Compile Include="CardType.Common.Designer.cs" />
+    <Compile Include="CardValidity.Common.cs" />
+    <Compile Include="CardValidity.Common.Designer.cs" />
+    <Compile Include="Customer.Common.cs" />
+    <Compile Include="Customer.Common.Designer.cs" />
+    <Compile Include="Function.Common.cs" />
+    <Compile Include="Function.Common.Designer.cs" />
+    <Compile Include="Group.Common.cs" />
+    <Compile Include="Group.Common.Designer.cs" />
+    <Compile Include="GroupFunction.Common.cs" />
+    <Compile Include="GroupFunction.Common.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RejectReason.Common.cs" />
+    <Compile Include="RejectReason.Common.Designer.cs" />
+    <Compile Include="Request.Common.cs" />
+    <Compile Include="Request.Common.Designer.cs" />
+    <Compile Include="RequestClass.Common.cs" />
+    <Compile Include="RequestClass.Common.Designer.cs" />
+    <Compile Include="RequestDetail.Common.cs" />
+    <Compile Include="RequestDetail.Common.Designer.cs" />
+    <Compile Include="RequestPriority.Common.cs" />
+    <Compile Include="RequestPriority.Common.Designer.cs" />
+    <Compile Include="RequestSearch.Common.cs" />
+    <Compile Include="RequestSearch.Common.Designer.cs" />
+    <Compile Include="RequestStatus.Common.cs" />
+    <Compile Include="RequestStatus.Common.Designer.cs" />
+    <Compile Include="RequestType.Common.cs" />
+    <Compile Include="RequestType.Common.Designer.cs" />
+    <Compile Include="User.Common.cs" />
+    <Compile Include="User.Common.Designer.cs" />
+    <Compile Include="UserGroup.Common.cs" />
+    <Compile Include="UserGroup.Common.Designer.cs" />
+    <Compile Include="WorkField.Common.cs" />
+    <Compile Include="WorkField.Common.Designer.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

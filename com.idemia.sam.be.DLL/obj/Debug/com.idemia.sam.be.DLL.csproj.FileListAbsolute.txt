@@ -1,0 +1,5 @@
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.DLL\bin\Debug\com.idemia.sam.be.DLL.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.DLL\bin\Debug\com.idemia.sam.be.DLL.pdb
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.DLL\obj\Debug\com.idemia.sam.be.DLL.csprojResolveAssemblyReference.cache
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.DLL\obj\Debug\com.idemia.sam.be.DLL.dll
+E:\SAM_Project\SAM_Management_Backend\SAM_Project\com.idemia.sam.be.DLL\obj\Debug\com.idemia.sam.be.DLL.pdb

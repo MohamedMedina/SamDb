@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>com.idemia.sam.be.DB_Management</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{e379412b-1963-4ac9-8e3f-8501926645e1}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql110DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>com.idemia.sam.be.DB_Management</RootNamespace>
+    <AssemblyName>com.idemia.sam.be.DB_Management</AssemblyName>
+    <ModelCollation>1033, CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <!-- Default to the v11.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Condition="'$(SQLDBExtensionsRefPath)' != ''" Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="Tables" />
+    <Folder Include="Schemas" />
+    <Folder Include="StoredProcedures" />
+    <Folder Include="Functions" />
+    <Folder Include="Data" />
+    <Folder Include="Tables\Tables Indexes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="Tables\Function.sql" />
+    <Build Include="Tables\Group.sql" />
+    <Build Include="Tables\GroupFunction.sql" />
+    <Build Include="Tables\User.sql" />
+    <Build Include="Tables\UserGroup.sql" />
+    <Build Include="Schemas\Lookups.sql" />
+    <Build Include="StoredProcedures\DeleteFunction.Sql" />
+    <Build Include="StoredProcedures\DeleteGroup.Sql" />
+    <Build Include="StoredProcedures\DeleteGroupFunction.Sql" />
+    <Build Include="StoredProcedures\DeleteUser.Sql" />
+    <Build Include="StoredProcedures\DeleteUserGroup.Sql" />
+    <Build Include="StoredProcedures\InsertFunction.Sql" />
+    <Build Include="StoredProcedures\InsertGroup.Sql" />
+    <Build Include="StoredProcedures\InsertGroupFunction.Sql" />
+    <Build Include="StoredProcedures\InsertUser.Sql" />
+    <Build Include="StoredProcedures\InsertUserGroup.Sql" />
+    <Build Include="StoredProcedures\SelectFunction.Sql" />
+    <Build Include="StoredProcedures\SelectGroup.Sql" />
+    <Build Include="StoredProcedures\SelectGroupFunction.Sql" />
+    <Build Include="StoredProcedures\SelectUser.Sql" />
+    <Build Include="StoredProcedures\SelectUserGroup.Sql" />
+    <Build Include="StoredProcedures\UpdateFunction.Sql" />
+    <Build Include="StoredProcedures\UpdateGroup.Sql" />
+    <Build Include="StoredProcedures\UpdateGroupFunction.Sql" />
+    <Build Include="StoredProcedures\UpdateUser.Sql" />
+    <Build Include="StoredProcedures\UpdateUserGroup.Sql" />
+    <Build Include="Schemas\Transactions.sql" />
+    <Build Include="Tables\RequestType.sql" />
+    <Build Include="Tables\RequestStatus.sql" />
+    <Build Include="Tables\RequestClass.sql" />
+    <Build Include="Tables\RequestPriority.sql" />
+    <Build Include="Tables\RejectReason.sql" />
+    <Build Include="Tables\CardType.sql" />
+    <Build Include="Tables\CardValidity.sql" />
+    <Build Include="Tables\WorkField.sql" />
+    <Build Include="Tables\Request.sql" />
+    <Build Include="Tables\Customer.sql" />
+    <PostDeploy Include="Tables\Tables Indexes\Customer_Code_UniqueConstaint.sql" />
+    <Build Include="Tables\RequestDetail.sql" />
+    <Build Include="StoredProcedures\DeleteRequestDetail.Sql" />
+    <Build Include="StoredProcedures\SelectRequestDetail.Sql" />
+    <Build Include="StoredProcedures\UpdateRequestDetail.Sql" />
+    <Build Include="StoredProcedures\DeleteCustomer.Sql" />
+    <Build Include="StoredProcedures\DeleteRequest.Sql" />
+    <Build Include="StoredProcedures\DeleteRequestStatus.Sql" />
+    <Build Include="StoredProcedures\DeleteRequestType.Sql" />
+    <Build Include="StoredProcedures\DeleteWorkField.Sql" />
+    <Build Include="StoredProcedures\InsertCustomer.Sql" />
+    <Build Include="StoredProcedures\InsertRequest.Sql" />
+    <Build Include="StoredProcedures\InsertRequestDetail.Sql" />
+    <Build Include="StoredProcedures\InsertRequestStatus.Sql" />
+    <Build Include="StoredProcedures\InsertRequestType.Sql" />
+    <Build Include="StoredProcedures\InsertWorkField.Sql" />
+    <Build Include="StoredProcedures\SelectCustomer.Sql" />
+    <Build Include="StoredProcedures\SelectRequest.Sql" />
+    <Build Include="StoredProcedures\SelectRequestStatus.Sql" />
+    <Build Include="StoredProcedures\SelectRequestType.Sql" />
+    <Build Include="StoredProcedures\SelectWorkField.Sql" />
+    <Build Include="StoredProcedures\UpdateCustomer.Sql" />
+    <Build Include="StoredProcedures\UpdateRequest.Sql" />
+    <Build Include="StoredProcedures\UpdateRequestStatus.Sql" />
+    <Build Include="StoredProcedures\UpdateRequestType.Sql" />
+    <Build Include="StoredProcedures\UpdateWorkField.Sql" />
+    <Build Include="StoredProcedures\DeleteCardType.Sql" />
+    <Build Include="StoredProcedures\DeleteCardValidity.Sql" />
+    <Build Include="StoredProcedures\DeleteRejectReason.Sql" />
+    <Build Include="StoredProcedures\DeleteRequestClass.Sql" />
+    <Build Include="StoredProcedures\DeleteRequestPriority.Sql" />
+    <Build Include="StoredProcedures\InsertCardType.Sql" />
+    <Build Include="StoredProcedures\InsertCardValidity.Sql" />
+    <Build Include="StoredProcedures\InsertRejectReason.Sql" />
+    <Build Include="StoredProcedures\InsertRequestClass.Sql" />
+    <Build Include="StoredProcedures\InsertRequestPriority.Sql" />
+    <Build Include="StoredProcedures\SelectCardType.Sql" />
+    <Build Include="StoredProcedures\SelectCardValidity.Sql" />
+    <Build Include="StoredProcedures\SelectRejectReason.Sql" />
+    <Build Include="StoredProcedures\SelectRequestClass.Sql" />
+    <Build Include="StoredProcedures\SelectRequestPriority.Sql" />
+    <Build Include="StoredProcedures\UpdateCardType.Sql" />
+    <Build Include="StoredProcedures\UpdateCardValidity.Sql" />
+    <Build Include="StoredProcedures\UpdateRejectReason.Sql" />
+    <Build Include="StoredProcedures\UpdateRequestClass.Sql" />
+    <Build Include="StoredProcedures\UpdateRequestPriority.Sql" />
+    <Build Include="Tables\RequestSearch.sql" />
+    <Build Include="StoredProcedures\DeleteRequestSearch.Sql" />
+    <Build Include="StoredProcedures\InsertRequestSearch.Sql" />
+    <Build Include="StoredProcedures\SelectRequestSearch.Sql" />
+    <Build Include="StoredProcedures\UpdateRequestSearch.Sql" />
+    <Build Include="StoredProcedures\SelectRequestDynamicSearch.Sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="com.idemia.sam.be.DB_Management.publish.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\Data.sql" />
+  </ItemGroup>
+</Project>

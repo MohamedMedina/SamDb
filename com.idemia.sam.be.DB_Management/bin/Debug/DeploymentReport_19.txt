@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [Transactions].[Customer].[Code_Unique] (Index)
+     Create
+       [Transactions].[Request] (Table)
+       [Transactions].[FK_CustomerID_Request] (Foreign Key)
+       [Transactions].[FK_CreationUserID_Request] (Foreign Key)
+       [Transactions].[FK_ApprovalUserID_Request] (Foreign Key)
+       [Transactions].[FK_ReceiveUserID_Request] (Foreign Key)
+       [Transactions].[FK_RejectionUserID_Request] (Foreign Key)
+       [Transactions].[FK_RejectionReasonID_Request] (Foreign Key)
+       [Transactions].[FK_RequestTypeID_Request] (Foreign Key)
+       [Transactions].[FK_RequestStatusID_Request] (Foreign Key)
+       [Transactions].[FK_RequestClassID_Request] (Foreign Key)
+       [Transactions].[FK_RequestPriorityID_Request] (Foreign Key)
+
+** Supporting actions
